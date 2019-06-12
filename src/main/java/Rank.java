@@ -10,4 +10,20 @@ public enum Rank {
         this.rankValue = rankValue;
         this.rankString = rankString;
     }
+
+    public int getRankValue() {
+        return rankValue;
+    }
+
+    public void setRankValue(int rankValue) {
+        this.rankValue = rankValue;
+    }
+
+    public String getRankString() {
+        return rankString;
+    }
+
+    public void setRankString(String rankString) {
+        this.rankString = rankString;
+    }
 }
