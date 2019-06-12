@@ -1,4 +1,4 @@
-public interface Game {
+public abstract class Game {
 
     public Boolean isWin();
     public void switchTurns();
