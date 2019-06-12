@@ -1,4 +1,11 @@
 public class Card {
-    private enum suit {HEART, SPADE, DIAMOND, CLUB;}
-    private enum rank {A, ONE, TWO, THREE, FOUR, FIVE, SIX, SEVEN, EIGHT, NINE, TEN, J, Q, K ;}
+    private String suit;
+    private String rank;
+    private Boolean isFaceUp;
+
+    public Card(String suit, String rank, Boolean isFaceUp) {
+        this.suit = suit;
+        this.rank = rank;
+        this.isFaceUp = isFaceUp;
+    }
 }
