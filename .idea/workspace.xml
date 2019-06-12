@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7206e10-fcb7-4c50-900e-35220f9e5302" name="Default Changelist" comment="" />
+    <list default="true" id="f7206e10-fcb7-4c50-900e-35220f9e5302" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,24 +14,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Poker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-              <folding>
-                <element signature="e#301#302#0" expanded="true" />
-                <element signature="e#328#329#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/PokerPlayer.java">
           <provider selected="true" editor-type-id="text-editor" />
@@ -43,11 +32,212 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/RoulettePlayer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="uml://JAVA/">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement />
+              <nodes>
+                <node x="0.0" y="1350.0">com</node>
+                <node x="0.0" y="1279.0">netscape</node>
+                <node x="828.0" y="283.0">Poker</node>
+                <node x="420.0" y="120.0">GamblingGame</node>
+                <node x="464.5" y="547.0">Roulette.numbers</node>
+                <node x="89.35769230769222" y="142.0">DiceGame</node>
+                <node x="0.0" y="694.0">Card.rank</node>
+                <node x="502.0" y="1073.0">toolbarButtonGraphics</node>
+                <node x="152.0" y="1350.0">sun</node>
+                <node x="672.0" y="618.0">BasePlayer</node>
+                <node x="0.0" y="294.0">Craps</node>
+                <node x="893.0" y="1279.0">apple</node>
+                <node x="1030.0" y="1073.0">groovyjarjarasm</node>
+                <node x="1225.0" y="1279.0">java</node>
+                <node x="823.2423076923076" y="130.5">CardGame</node>
+                <node x="1059.0" y="1279.0">javax</node>
+                <node x="216.0" y="792.0">RoulettePlayer</node>
+                <node x="374.0" y="1279.0">javafx</node>
+                <node x="624.0" y="283.0">Blackjack</node>
+                <node x="547.0" y="1279.0">oracle</node>
+                <node x="1063.0" y="748.0">BlackjackPlayer</node>
+                <node x="304.0" y="1350.0">org</node>
+                <node x="1032.0" y="294.0">GoFish</node>
+                <node x="920.0" y="814.5">CrapsPlayer</node>
+                <node x="572.0" y="781.0">GoFishPlayer</node>
+                <node x="1155.75" y="131.0">Bin</node>
+                <node x="1226.0" y="327.5">Dice</node>
+                <node x="420.0" y="305.0">Roulette</node>
+                <node x="1266.0" y="1073.0">resources</node>
+                <node x="0.0" y="1073.0">Deck</node>
+                <node x="389.99999999999994" y="770.0">LastChancePlayer</node>
+                <node x="94.0" y="804.0">Card.suit</node>
+                <node x="47.75" y="618.0">Card</node>
+                <node x="187.0" y="1279.0">META-INF</node>
+                <node x="456.0" y="1350.0">jdk</node>
+                <node x="746.0" y="759.0">PokerPlayer</node>
+                <node x="720.0" y="1279.0">groovy</node>
+                <node x="447.45" y="0.0">Game</node>
+                <node x="217.0" y="1073.0">groovyjarjarcommonscli</node>
+                <node x="204.0" y="272.0">LastChance</node>
+                <node x="780.0" y="1073.0">groovyjarjarantlr</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="LastChancePlayer" target="BasePlayer">
+                  <point x="0.0" y="-57.5" />
+                  <point x="470.99999999999994" y="718.0" />
+                  <point x="704.0" y="718.0" />
+                  <point x="-32.0" y="35.0" />
+                </edge>
+                <edge source="Card.suit" target="Card">
+                  <point x="0.0" y="-57.0" />
+                  <point x="132.5" y="669.0" />
+                  <point x="103.25" y="669.0" />
+                  <point x="18.5" y="13.0" />
+                </edge>
+                <edge source="Poker" target="CardGame">
+                  <point x="46.0" y="-101.5" />
+                  <point x="966.0" y="252.0" />
+                  <point x="937.2423076923076" y="252.0" />
+                  <point x="0.0" y="35.5" />
+                </edge>
+                <edge source="Craps" target="DiceGame">
+                  <point x="-46.0" y="-90.5" />
+                  <point x="46.0" y="252.0" />
+                  <point x="114.85769230769222" y="252.0" />
+                  <point x="-25.5" y="24.0" />
+                </edge>
+                <edge source="GoFish" target="CardGame">
+                  <point x="-43.5" y="-90.5" />
+                  <point x="1075.5" y="252.0" />
+                  <point x="1013.2423076923076" y="252.0" />
+                  <point x="76.0" y="35.5" />
+                </edge>
+                <edge source="Roulette.numbers" target="Roulette">
+                  <point x="0.0" y="-13.0" />
+                  <point x="0.0" y="79.5" />
+                </edge>
+                <edge source="Card.rank" target="Card">
+                  <point x="0.0" y="-167.0" />
+                  <point x="37.0" y="669.0" />
+                  <point x="66.25" y="669.0" />
+                  <point x="-18.5" y="13.0" />
+                </edge>
+                <edge source="LastChance" target="DiceGame">
+                  <point x="-49.0" y="-112.5" />
+                  <point x="253.0" y="232.0" />
+                  <point x="165.85769230769222" y="232.0" />
+                  <point x="25.5" y="24.0" />
+                </edge>
+                <edge source="CardGame" target="Game">
+                  <point x="0.0" y="-35.5" />
+                  <point x="937.2423076923076" y="95.0" />
+                  <point x="568.95" y="95.0" />
+                  <point x="40.5" y="35.0" />
+                </edge>
+                <edge source="Blackjack" target="GamblingGame">
+                  <point x="-46.0" y="-101.5" />
+                  <point x="670.0" y="252.0" />
+                  <point x="548.8" y="252.0" />
+                  <point x="36.799999999999955" y="46.0" />
+                </edge>
+                <edge source="Roulette" target="GamblingGame">
+                  <point x="0.0" y="-79.5" />
+                  <point x="0.0" y="46.0" />
+                </edge>
+                <edge source="CrapsPlayer" target="BasePlayer">
+                  <point x="0.0" y="-13.0" />
+                  <point x="981.5" y="718.0" />
+                  <point x="768.0" y="718.0" />
+                  <point x="32.0" y="35.0" />
+                </edge>
+                <edge source="Dice" target="Bin">
+                  <point x="0.0" y="-57.0" />
+                  <point x="1323.0" y="252.0" />
+                  <point x="1286.25" y="252.0" />
+                  <point x="43.5" y="35.0" />
+                </edge>
+                <edge source="BlackjackPlayer" target="BasePlayer">
+                  <point x="0.0" y="-79.5" />
+                  <point x="1144.5" y="708.0" />
+                  <point x="789.3333333333333" y="708.0" />
+                  <point x="53.33333333333326" y="35.0" />
+                </edge>
+                <edge source="RoulettePlayer" target="BasePlayer">
+                  <point x="0.0" y="-35.5" />
+                  <point x="293.0" y="708.0" />
+                  <point x="682.6666666666665" y="708.0" />
+                  <point x="-53.33333333333337" y="35.0" />
+                </edge>
+                <edge source="GoFish" target="Bin">
+                  <point x="43.5" y="-90.5" />
+                  <point x="1162.5" y="252.0" />
+                  <point x="1199.25" y="252.0" />
+                  <point x="-43.5" y="35.0" />
+                </edge>
+                <edge source="PokerPlayer" target="BasePlayer">
+                  <point x="0.0" y="-68.5" />
+                  <point x="823.0" y="728.0" />
+                  <point x="746.6666666666665" y="728.0" />
+                  <point x="10.666666666666629" y="35.0" />
+                </edge>
+                <edge source="GoFishPlayer" target="BasePlayer">
+                  <point x="0.0" y="-46.5" />
+                  <point x="649.0" y="728.0" />
+                  <point x="725.3333333333333" y="728.0" />
+                  <point x="-10.666666666666629" y="35.0" />
+                </edge>
+                <edge source="DiceGame" target="Game">
+                  <point x="0.0" y="-24.0" />
+                  <point x="140.35769230769222" y="95.0" />
+                  <point x="487.95" y="95.0" />
+                  <point x="-40.5" y="35.0" />
+                </edge>
+                <edge source="LastChance" target="GamblingGame">
+                  <point x="49.0" y="-112.5" />
+                  <point x="351.0" y="252.0" />
+                  <point x="475.2" y="252.0" />
+                  <point x="-36.80000000000001" y="46.0" />
+                </edge>
+                <edge source="Poker" target="GamblingGame">
+                  <point x="-46.0" y="-101.5" />
+                  <point x="874.0" y="242.0" />
+                  <point x="585.6" y="242.0" />
+                  <point x="73.60000000000002" y="46.0" />
+                </edge>
+                <edge source="Blackjack" target="CardGame">
+                  <point x="46.0" y="-101.5" />
+                  <point x="762.0" y="252.0" />
+                  <point x="861.2423076923076" y="252.0" />
+                  <point x="-76.0" y="35.5" />
+                </edge>
+                <edge source="Craps" target="GamblingGame">
+                  <point x="46.0" y="-90.5" />
+                  <point x="138.0" y="242.0" />
+                  <point x="438.4" y="242.0" />
+                  <point x="-73.60000000000002" y="46.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.9430555555555555" x="803.8225331369661" y="498.45360824742266" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Properties</Category>
+                <Category>Inner Classes</Category>
+                <Category>Methods</Category>
+                <Category>Constructors</Category>
+                <Category>Fields</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
             </state>
           </provider>
         </entry>
@@ -121,7 +311,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Casino2" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -161,9 +351,11 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="width" value="1280" />
-    <option name="height" value="800" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="-293" />
+    <option name="y" value="-1080" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -171,7 +363,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -206,10 +397,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -237,29 +430,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560279658478</updated>
-      <workItem from="1560279662266" duration="5698000" />
+      <workItem from="1560279662266" duration="5955000" />
+      <workItem from="1560346555295" duration="402000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5698000" />
+    <option name="totallyTimeSpent" value="6357000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <frame x="-293" y="-1080" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16719915" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -267,15 +456,20 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -285,12 +479,8 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/suit.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Bins.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/suit.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Bins.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Card.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -298,9 +488,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PokerGame.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PokerGame.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/CardGame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -318,20 +506,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ChuckALuckPlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SlotsPlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="43" selection-start-column="43" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ChuckALuckPlayer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/SlotsPlayer.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Blackjack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -388,275 +564,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement />
-          <nodes>
-            <node x="1010.0" y="1015.1328125">com</node>
-            <node x="1313.0" y="891.0">netscape</node>
-            <node x="987.8680555555557" y="555.0">Poker</node>
-            <node x="648.1180555555557" y="358.5">GamblingGame</node>
-            <node x="369.36805555555566" y="380.5">DiceGame</node>
-            <node x="605.0" y="891.0">toolbarButtonGraphics</node>
-            <node x="1162.0" y="1015.1328125">sun</node>
-            <node x="378.4513888888889" y="142.0">BasePlayer</node>
-            <node x="451.7847222222223" y="610.0">Craps</node>
-            <node x="519.0" y="1015.1328125">apple</node>
-            <node x="883.0" y="891.0">groovyjarjarasm</node>
-            <node x="851.0" y="1015.1328125">java</node>
-            <node x="1364.8680555555557" y="369.0">CardGame</node>
-            <node x="685.0" y="1015.1328125">javax</node>
-            <node x="852.1180555555557" y="391.5">RoulettePlayer</node>
-            <node x="0.0" y="1015.1328125">javafx</node>
-            <node x="1236.8333333333333" y="599.0">Blackjack</node>
-            <node x="173.0" y="1015.1328125">oracle</node>
-            <node x="1181.8680555555557" y="325.0">BlackjackPlayer</node>
-            <node x="1314.0" y="1015.1328125">org</node>
-            <node x="1631.1180555555557" y="610.0">GoFish</node>
-            <node x="219.36805555555566" y="391.5">GoFishPlayer</node>
-            <node x="817.1319444444446" y="0.0">Bin</node>
-            <node x="505.1180555555556" y="391.5">CrapsPlayer</node>
-            <node x="0.0" y="120.0">Dice</node>
-            <node x="740.1180555555557" y="621.0">Roulette</node>
-            <node x="1119.0" y="891.0">resources</node>
-            <node x="1612.8680555555557" y="324.0">Deck</node>
-            <node x="41.36805555555566" y="391.5">LastChancePlayer</node>
-            <node x="1487.5347222222222" y="164.0">Card</node>
-            <node x="1500.0" y="891.0">META-INF</node>
-            <node x="1466.0" y="1015.1328125">jdk</node>
-            <node x="1018.3680555555557" y="391.5">PokerPlayer</node>
-            <node x="346.0" y="1015.1328125">groovy</node>
-            <node x="906.5833333333334" y="142.0">Game</node>
-            <node x="320.0" y="891.6328125">groovyjarjarcommonscli</node>
-            <node x="142.5138888888889" y="555.0">LastChance</node>
-            <node x="40.0" y="898.1328125">groovyjarjarantlr</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="LastChancePlayer" target="BasePlayer">
-              <point x="0.0" y="-13.0" />
-              <point x="120.36805555555566" y="294.0" />
-              <point x="389.11805555555554" y="294.0" />
-              <point x="-53.33333333333337" y="35.0" />
-            </edge>
-            <edge source="Deck" target="Card">
-              <point x="-43.0" y="-80.5" />
-              <point x="1655.8680555555557" y="294.0" />
-              <point x="1543.0347222222222" y="294.0" />
-              <point x="18.5" y="13.0" />
-            </edge>
-            <edge source="CardGame" target="Game">
-              <point x="-76.0" y="-35.5" />
-              <point x="1402.8680555555557" y="254.0" />
-              <point x="1028.0833333333335" y="254.0" />
-              <point x="40.5" y="35.0" />
-            </edge>
-            <edge source="Blackjack" target="GamblingGame">
-              <point x="-61.33333333333326" y="-101.5" />
-              <point x="1267.5" y="515.0" />
-              <point x="813.7180555555556" y="515.0" />
-              <point x="73.60000000000002" y="46.0" />
-            </edge>
-            <edge source="BlackjackPlayer" target="BasePlayer">
-              <point x="-54.33333333333326" y="-79.5" />
-              <point x="1209.0347222222224" y="264.0" />
-              <point x="495.7847222222222" y="264.0" />
-              <point x="53.33333333333326" y="35.0" />
-            </edge>
-            <edge source="RoulettePlayer" target="BasePlayer">
-              <point x="0.0" y="-13.0" />
-              <point x="924.1180555555557" y="284.0" />
-              <point x="453.11805555555554" y="284.0" />
-              <point x="10.666666666666629" y="35.0" />
-            </edge>
-            <edge source="groovyjarjarcommonscli" target="groovyjarjarcommonscli">
-              <point x="60.0" y="13.0" />
-              <point x="500.0" y="947.6328125" />
-              <point x="290.0" y="947.6328125" />
-              <point x="290.0" y="898.1328125" />
-              <point x="-120.0" y="-6.5" />
-            </edge>
-            <edge source="GoFishPlayer" target="BasePlayer">
-              <point x="0.0" y="-13.0" />
-              <point x="284.36805555555566" y="304.0" />
-              <point x="410.4513888888889" y="304.0" />
-              <point x="-32.0" y="35.0" />
-            </edge>
-            <edge source="Roulette" target="RoulettePlayer">
-              <point x="46.0" y="-79.5" />
-              <point x="878.1180555555557" y="535.0" />
-              <point x="924.1180555555557" y="535.0" />
-              <point x="0.0" y="13.0" />
-            </edge>
-            <edge source="LastChance" target="GamblingGame">
-              <point x="73.5" y="-145.5" />
-              <point x="314.0138888888889" y="525.0" />
-              <point x="666.5180555555555" y="525.0" />
-              <point x="-73.60000000000002" y="46.0" />
-            </edge>
-            <edge source="Blackjack" target="BlackjackPlayer">
-              <point x="0.0" y="-101.5" />
-              <point x="1328.8333333333333" y="505.0" />
-              <point x="1263.3680555555557" y="505.0" />
-              <point x="0.0" y="79.5" />
-            </edge>
-            <edge source="Poker" target="PokerPlayer">
-              <point x="0.0" y="-145.5" />
-              <point x="0.0" y="13.0" />
-            </edge>
-            <edge source="Blackjack" target="CardGame">
-              <point x="61.33333333333326" y="-101.5" />
-              <point x="1390.1666666666665" y="535.0" />
-              <point x="1478.8680555555557" y="535.0" />
-              <point x="0.0" y="35.5" />
-            </edge>
-            <edge source="Craps" target="GamblingGame">
-              <point x="61.33333333333337" y="-90.5" />
-              <point x="605.1180555555557" y="535.0" />
-              <point x="703.3180555555557" y="535.0" />
-              <point x="-36.799999999999955" y="46.0" />
-            </edge>
-            <edge source="LastChance" target="Dice">
-              <point x="-73.5" y="-145.5" />
-              <point x="167.0138888888889" y="535.0" />
-              <point x="21.916666666666742" y="535.0" />
-              <point x="21.916666666666742" y="304.0" />
-              <point x="48.5" y="304.0" />
-              <point x="-48.5" y="57.0" />
-            </edge>
-            <edge source="Poker" target="CardGame">
-              <point x="61.33333333333326" y="-145.5" />
-              <point x="1141.201388888889" y="525.0" />
-              <point x="1402.8680555555557" y="525.0" />
-              <point x="-76.0" y="35.5" />
-            </edge>
-            <edge source="Craps" target="DiceGame">
-              <point x="-61.33333333333337" y="-90.5" />
-              <point x="482.4513888888889" y="515.0" />
-              <point x="445.86805555555566" y="515.0" />
-              <point x="25.5" y="24.0" />
-            </edge>
-            <edge source="GoFish" target="CardGame">
-              <point x="-58.0" y="-90.5" />
-              <point x="1660.1180555555557" y="535.0" />
-              <point x="1554.8680555555557" y="535.0" />
-              <point x="76.0" y="35.5" />
-            </edge>
-            <edge source="LastChance" target="LastChancePlayer">
-              <point x="-24.5" y="-145.5" />
-              <point x="216.0138888888889" y="525.0" />
-              <point x="120.36805555555566" y="525.0" />
-              <point x="0.0" y="13.0" />
-            </edge>
-            <edge source="groovyjarjarantlr" target="groovyjarjarantlr">
-              <point x="-68.33333333333333" y="13.0" />
-              <point x="74.16666666666667" y="944.1328125" />
-              <point x="20.0" y="944.1328125" />
-              <point x="20.0" y="919.7994791666666" />
-              <point x="-102.5" y="8.666666666666666" />
-            </edge>
-            <edge source="DiceGame" target="Dice">
-              <point x="-25.5" y="-24.0" />
-              <point x="394.86805555555566" y="284.0" />
-              <point x="145.5" y="284.0" />
-              <point x="48.5" y="57.0" />
-            </edge>
-            <edge source="LastChance" target="DiceGame">
-              <point x="24.5" y="-145.5" />
-              <point x="265.0138888888889" y="515.0" />
-              <point x="394.86805555555566" y="515.0" />
-              <point x="-25.5" y="24.0" />
-            </edge>
-            <edge source="Roulette" target="GamblingGame">
-              <point x="-46.0" y="-79.5" />
-              <point x="786.1180555555557" y="535.0" />
-              <point x="740.1180555555557" y="535.0" />
-              <point x="0.0" y="46.0" />
-            </edge>
-            <edge source="CrapsPlayer" target="BasePlayer">
-              <point x="0.0" y="-13.0" />
-              <point x="566.6180555555557" y="294.0" />
-              <point x="431.7847222222223" y="294.0" />
-              <point x="-10.666666666666629" y="35.0" />
-            </edge>
-            <edge source="Dice" target="Bin">
-              <point x="0.0" y="-57.0" />
-              <point x="97.0" y="95.0" />
-              <point x="860.6319444444446" y="95.0" />
-              <point x="-43.5" y="35.0" />
-            </edge>
-            <edge source="CardGame" target="Card">
-              <point x="0.0" y="-35.5" />
-              <point x="1478.8680555555557" y="304.0" />
-              <point x="1518.3680555555554" y="304.0" />
-              <point x="-6.1666666666667425" y="13.0" />
-            </edge>
-            <edge source="GoFish" target="Bin">
-              <point x="58.0" y="-90.5" />
-              <point x="1776.1180555555557" y="535.0" />
-              <point x="1795.3680555555557" y="535.0" />
-              <point x="1795.3680555555557" y="95.0" />
-              <point x="947.6319444444443" y="95.0" />
-              <point x="43.499999999999886" y="35.0" />
-            </edge>
-            <edge source="PokerPlayer" target="BasePlayer">
-              <point x="0.0" y="-13.0" />
-              <point x="1079.8680555555557" y="274.0" />
-              <point x="474.4513888888889" y="274.0" />
-              <point x="32.0" y="35.0" />
-            </edge>
-            <edge source="Craps" target="CrapsPlayer">
-              <point x="0.0" y="-90.5" />
-              <point x="543.7847222222223" y="515.0" />
-              <point x="566.6180555555557" y="515.0" />
-              <point x="0.0" y="13.0" />
-            </edge>
-            <edge source="GoFish" target="Deck">
-              <point x="0.0" y="-90.5" />
-              <point x="1718.1180555555557" y="535.0" />
-              <point x="1698.8680555555557" y="535.0" />
-              <point x="0.0" y="80.5" />
-            </edge>
-            <edge source="BlackjackPlayer" target="Card">
-              <point x="54.33333333333326" y="-79.5" />
-              <point x="1317.701388888889" y="294.0" />
-              <point x="1506.0347222222222" y="294.0" />
-              <point x="-18.5" y="13.0" />
-            </edge>
-            <edge source="DiceGame" target="Game">
-              <point x="25.5" y="-24.0" />
-              <point x="445.86805555555566" y="304.0" />
-              <point x="947.0833333333334" y="304.0" />
-              <point x="-40.5" y="35.0" />
-            </edge>
-            <edge source="Poker" target="GamblingGame">
-              <point x="-61.33333333333326" y="-145.5" />
-              <point x="1018.5347222222224" y="525.0" />
-              <point x="776.9180555555556" y="525.0" />
-              <point x="36.799999999999955" y="46.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="0.7565308737460607" x="177.237548828125" y="235.237548828125" />
-          <SelectedNodes>
-            <node>com</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/BlackjackPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Poker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PokerPlayer.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Roulette.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GoFishPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LastChance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LastChancePlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -685,52 +634,209 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/GoFishPlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LastChance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LastChancePlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Poker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PokerPlayer.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Roulette.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/RoulettePlayer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="0.0" y="1350.0">com</node>
+            <node x="0.0" y="1279.0">netscape</node>
+            <node x="828.0" y="283.0">Poker</node>
+            <node x="420.0" y="120.0">GamblingGame</node>
+            <node x="464.5" y="547.0">Roulette.numbers</node>
+            <node x="89.35769230769222" y="142.0">DiceGame</node>
+            <node x="0.0" y="694.0">Card.rank</node>
+            <node x="502.0" y="1073.0">toolbarButtonGraphics</node>
+            <node x="152.0" y="1350.0">sun</node>
+            <node x="672.0" y="618.0">BasePlayer</node>
+            <node x="0.0" y="294.0">Craps</node>
+            <node x="893.0" y="1279.0">apple</node>
+            <node x="1030.0" y="1073.0">groovyjarjarasm</node>
+            <node x="1225.0" y="1279.0">java</node>
+            <node x="823.2423076923076" y="130.5">CardGame</node>
+            <node x="1059.0" y="1279.0">javax</node>
+            <node x="216.0" y="792.0">RoulettePlayer</node>
+            <node x="374.0" y="1279.0">javafx</node>
+            <node x="624.0" y="283.0">Blackjack</node>
+            <node x="547.0" y="1279.0">oracle</node>
+            <node x="1063.0" y="748.0">BlackjackPlayer</node>
+            <node x="304.0" y="1350.0">org</node>
+            <node x="1032.0" y="294.0">GoFish</node>
+            <node x="920.0" y="814.5">CrapsPlayer</node>
+            <node x="572.0" y="781.0">GoFishPlayer</node>
+            <node x="1155.75" y="131.0">Bin</node>
+            <node x="1226.0" y="327.5">Dice</node>
+            <node x="420.0" y="305.0">Roulette</node>
+            <node x="1266.0" y="1073.0">resources</node>
+            <node x="0.0" y="1073.0">Deck</node>
+            <node x="389.99999999999994" y="770.0">LastChancePlayer</node>
+            <node x="94.0" y="804.0">Card.suit</node>
+            <node x="47.75" y="618.0">Card</node>
+            <node x="187.0" y="1279.0">META-INF</node>
+            <node x="456.0" y="1350.0">jdk</node>
+            <node x="746.0" y="759.0">PokerPlayer</node>
+            <node x="720.0" y="1279.0">groovy</node>
+            <node x="447.45" y="0.0">Game</node>
+            <node x="217.0" y="1073.0">groovyjarjarcommonscli</node>
+            <node x="204.0" y="272.0">LastChance</node>
+            <node x="780.0" y="1073.0">groovyjarjarantlr</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="LastChancePlayer" target="BasePlayer">
+              <point x="0.0" y="-57.5" />
+              <point x="470.99999999999994" y="718.0" />
+              <point x="704.0" y="718.0" />
+              <point x="-32.0" y="35.0" />
+            </edge>
+            <edge source="Card.suit" target="Card">
+              <point x="0.0" y="-57.0" />
+              <point x="132.5" y="669.0" />
+              <point x="103.25" y="669.0" />
+              <point x="18.5" y="13.0" />
+            </edge>
+            <edge source="Poker" target="CardGame">
+              <point x="46.0" y="-101.5" />
+              <point x="966.0" y="252.0" />
+              <point x="937.2423076923076" y="252.0" />
+              <point x="0.0" y="35.5" />
+            </edge>
+            <edge source="Craps" target="DiceGame">
+              <point x="-46.0" y="-90.5" />
+              <point x="46.0" y="252.0" />
+              <point x="114.85769230769222" y="252.0" />
+              <point x="-25.5" y="24.0" />
+            </edge>
+            <edge source="GoFish" target="CardGame">
+              <point x="-43.5" y="-90.5" />
+              <point x="1075.5" y="252.0" />
+              <point x="1013.2423076923076" y="252.0" />
+              <point x="76.0" y="35.5" />
+            </edge>
+            <edge source="Roulette.numbers" target="Roulette">
+              <point x="0.0" y="-13.0" />
+              <point x="0.0" y="79.5" />
+            </edge>
+            <edge source="Card.rank" target="Card">
+              <point x="0.0" y="-167.0" />
+              <point x="37.0" y="669.0" />
+              <point x="66.25" y="669.0" />
+              <point x="-18.5" y="13.0" />
+            </edge>
+            <edge source="LastChance" target="DiceGame">
+              <point x="-49.0" y="-112.5" />
+              <point x="253.0" y="232.0" />
+              <point x="165.85769230769222" y="232.0" />
+              <point x="25.5" y="24.0" />
+            </edge>
+            <edge source="CardGame" target="Game">
+              <point x="0.0" y="-35.5" />
+              <point x="937.2423076923076" y="95.0" />
+              <point x="568.95" y="95.0" />
+              <point x="40.5" y="35.0" />
+            </edge>
+            <edge source="Blackjack" target="GamblingGame">
+              <point x="-46.0" y="-101.5" />
+              <point x="670.0" y="252.0" />
+              <point x="548.8" y="252.0" />
+              <point x="36.799999999999955" y="46.0" />
+            </edge>
+            <edge source="Roulette" target="GamblingGame">
+              <point x="0.0" y="-79.5" />
+              <point x="0.0" y="46.0" />
+            </edge>
+            <edge source="CrapsPlayer" target="BasePlayer">
+              <point x="0.0" y="-13.0" />
+              <point x="981.5" y="718.0" />
+              <point x="768.0" y="718.0" />
+              <point x="32.0" y="35.0" />
+            </edge>
+            <edge source="Dice" target="Bin">
+              <point x="0.0" y="-57.0" />
+              <point x="1323.0" y="252.0" />
+              <point x="1286.25" y="252.0" />
+              <point x="43.5" y="35.0" />
+            </edge>
+            <edge source="BlackjackPlayer" target="BasePlayer">
+              <point x="0.0" y="-79.5" />
+              <point x="1144.5" y="708.0" />
+              <point x="789.3333333333333" y="708.0" />
+              <point x="53.33333333333326" y="35.0" />
+            </edge>
+            <edge source="RoulettePlayer" target="BasePlayer">
+              <point x="0.0" y="-35.5" />
+              <point x="293.0" y="708.0" />
+              <point x="682.6666666666665" y="708.0" />
+              <point x="-53.33333333333337" y="35.0" />
+            </edge>
+            <edge source="GoFish" target="Bin">
+              <point x="43.5" y="-90.5" />
+              <point x="1162.5" y="252.0" />
+              <point x="1199.25" y="252.0" />
+              <point x="-43.5" y="35.0" />
+            </edge>
+            <edge source="PokerPlayer" target="BasePlayer">
+              <point x="0.0" y="-68.5" />
+              <point x="823.0" y="728.0" />
+              <point x="746.6666666666665" y="728.0" />
+              <point x="10.666666666666629" y="35.0" />
+            </edge>
+            <edge source="GoFishPlayer" target="BasePlayer">
+              <point x="0.0" y="-46.5" />
+              <point x="649.0" y="728.0" />
+              <point x="725.3333333333333" y="728.0" />
+              <point x="-10.666666666666629" y="35.0" />
+            </edge>
+            <edge source="DiceGame" target="Game">
+              <point x="0.0" y="-24.0" />
+              <point x="140.35769230769222" y="95.0" />
+              <point x="487.95" y="95.0" />
+              <point x="-40.5" y="35.0" />
+            </edge>
+            <edge source="LastChance" target="GamblingGame">
+              <point x="49.0" y="-112.5" />
+              <point x="351.0" y="252.0" />
+              <point x="475.2" y="252.0" />
+              <point x="-36.80000000000001" y="46.0" />
+            </edge>
+            <edge source="Poker" target="GamblingGame">
+              <point x="-46.0" y="-101.5" />
+              <point x="874.0" y="242.0" />
+              <point x="585.6" y="242.0" />
+              <point x="73.60000000000002" y="46.0" />
+            </edge>
+            <edge source="Blackjack" target="CardGame">
+              <point x="46.0" y="-101.5" />
+              <point x="762.0" y="252.0" />
+              <point x="861.2423076923076" y="252.0" />
+              <point x="-76.0" y="35.5" />
+            </edge>
+            <edge source="Craps" target="GamblingGame">
+              <point x="46.0" y="-90.5" />
+              <point x="138.0" y="242.0" />
+              <point x="438.4" y="242.0" />
+              <point x="-73.60000000000002" y="46.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.9430555555555555" x="803.8225331369661" y="498.45360824742266" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+            <Category>Methods</Category>
+            <Category>Constructors</Category>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
